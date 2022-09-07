@@ -17,7 +17,7 @@ const About = () => {
         <div className="i-left-wrapper">
           <img src={ProfileImage} alt="developer" className="i-img" />
           <h2 className="i-intro">Hello, My name is </h2>
-          <h1 className="i-name">Vanessa Withun</h1>
+          <h1 className="i-name" id="name">Vanessa Withun</h1>
           <div className="i-title">
             <div className="i-title-wrapper">
               <div className="i-title-item">Web Developer</div>
